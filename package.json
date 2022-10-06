@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "You'll be creating a generator that dynamically produces a high-quality README file directly from the command line.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh236061/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh236061/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Josh236061/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
